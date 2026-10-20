@@ -329,3 +329,6 @@ form .btn{width:100%;margin-top:20px;padding:18px}
   .ftr-grid{grid-template-columns:1fr}
   .path{padding:26px}
 }
+
+/* Oct 19 2026: data tables in articles */
+.prose table{width:100%;border-collapse:collapse;margin:16px 0;font-size:.92rem;display:block;overflow-x:auto}.prose th,.prose td{text-align:left;padding:8px 10px;border-bottom:1px solid rgba(0,0,0,.12);white-space:nowrap}.prose thead th{font-weight:600}
